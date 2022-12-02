@@ -33,7 +33,7 @@ const Register = () => {
                 placeholder="Password"
               />
             </Form.Group>
-            <Link className="text-decoration-none text-dark" to="/summary">
+            <Link className="text-decoration-none text-dark" to="/">
               <Button
                 variant="danger"
                 type="submit"

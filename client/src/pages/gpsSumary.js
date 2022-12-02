@@ -8,7 +8,7 @@ const Summary = () => {
       style={{ width: "100vw", height: "100vh" }}
     >
       <div
-        style={{ height: "600px" }}
+        style={{ height: "70%" }}
         className="border border-white col-10 rounded-5 m-auto row p-5"
       >
         <div className="text-light">
